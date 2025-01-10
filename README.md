@@ -6,7 +6,7 @@
   
   
   ### HN : Elsy, Arcsecond
-  ### AGE : 18
+  ### AGE : 19
   ### Skills : Competitive Programming, WebFront, ML, 3DCG...
   [![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,vue,tensorflow,arch,neovim,blender,linkedin)](https://skillicons.dev)
 
