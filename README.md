@@ -19,7 +19,7 @@
     <img src="https://img.icons8.com/?size=100&id=GIpl4LX6E2xe&format=png&color=000000" alt="lnk" width="100">
   </a>
  <a href="https://atcoder.jp/users/Arcsecond">
-  <img src="https://img.atcoder.jp/logo/atcoder/logo_white.png" alt="atc" width="100">
+  <img src="https://img.atcoder.jp/logo/atcoder/logo.png" alt="atc" width="100">
 </a>
 
   # > 🥐Status🥐 <
