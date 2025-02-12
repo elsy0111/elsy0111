@@ -21,8 +21,8 @@
   <img src="https://img.atcoder.jp/logo/atcoder/logo.png" alt="atc" width="100">
 </a>
 
-  # > 🥐Status🥐 <
-
+  # > 🥐Stats🥐 <
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elsy0111&show_icons=true&hide=contribs&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsy0111&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
