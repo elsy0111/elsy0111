@@ -22,6 +22,6 @@
 
   # > 🥐Stats🥐 <
   [![trophy](https://github-profile-trophy.vercel.app/?username=elsy0111)](https://github.com/ryo-ma/github-profile-trophy)
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=elsy0111)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=elsy0111&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elsy0111&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
