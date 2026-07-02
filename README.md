@@ -10,9 +10,6 @@
 
   # > 📑𝘓𝘪𝘯𝘬𝘴📑 <
 
-  <a href="https://twitter.com/arcsec_std">
-    <img src="https://img.icons8.com/?size=100&id=68193&format=png&color=000000" alt="twi" width="100">
-  </a>
   <a href="https://www.linkedin.com/in/kengo-saito-249008313/">
     <img src="https://img.icons8.com/?size=100&id=GIpl4LX6E2xe&format=png&color=000000" alt="lnk" width="100">
   </a>
