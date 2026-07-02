@@ -4,8 +4,8 @@
   <img width="400" height="400" alt="hQtilP47_400x400" src="https://github.com/user-attachments/assets/a6322ee1-f678-4c80-be7e-7f72d4e851b3" />
 
   
-  ### HN : Elsy, Arcsecond, Kengo Saito
-  ### Skills : Competitive Programming, WebFront, ML, 3DCG...
+  ### HN : Kengo Saito
+  ### Skills : Competitive Programming, Web, ML, 3DCG...
   [![My Skills](https://skillicons.dev/icons?i=python,cpp,html,css,vue,tensorflow,arch,neovim,blender,linkedin)](https://skillicons.dev)
 
   # > 📑𝘓𝘪𝘯𝘬𝘴📑 <
