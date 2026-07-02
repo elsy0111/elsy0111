@@ -1,8 +1,8 @@
 <div align = "center">
   
   # 🍡WHOAMI 
-  ![icon](https://raw.githubusercontent.com/elsy0111/elsy0111/main/ico.png)
-  
+  <img width="400" height="400" alt="hQtilP47_400x400" src="https://github.com/user-attachments/assets/a6322ee1-f678-4c80-be7e-7f72d4e851b3" />
+
   
   ### HN : Elsy, Arcsecond, Kengo Saito
   ### Skills : Competitive Programming, WebFront, ML, 3DCG...
