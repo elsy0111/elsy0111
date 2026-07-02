@@ -1,6 +1,6 @@
 <div align = "center">
   
-  # 🍡WHOAMI 
+  # > 🍡WHOAMI🍡 <
   <img width="400" height="400" alt="hQtilP47_400x400" src="https://github.com/user-attachments/assets/a6322ee1-f678-4c80-be7e-7f72d4e851b3" />
 
   
