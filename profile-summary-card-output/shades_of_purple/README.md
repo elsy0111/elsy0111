@@ -42,3 +42,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/elsy0111/elsy0111/main/profile-summary-card-output/shades_of_purple/4-productive-time.svg)
+```
+
+    

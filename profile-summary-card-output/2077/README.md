@@ -42,3 +42,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/elsy0111/elsy0111/main/profile-summary-card-output/2077/4-productive-time.svg)
+```
+
+    
